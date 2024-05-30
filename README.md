@@ -2,9 +2,7 @@
 
 ### Prerequisites
 
-Register a new OAuth application: `https://github.com/settings/applications/new`.
-Every registered OAuth app is assigned a unique Client ID and Client Secret.
-Set them as enviroment variables in the [docker-compose](docker-compose.yml)
+Register a new OAuth application: `https://github.com/settings/applications/new`. Every registered OAuth app is assigned a unique Client ID and Client Secret. Set them as enviroment variables in the [docker-compose](docker-compose.yml).
 
 ### Running the application
 
